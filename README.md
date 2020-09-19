@@ -31,7 +31,7 @@ $ # python model_name_to_train.py , for example:
 $ python 5_3_CED_CNN.py
 ```
 
-We also show our experiment exvironment in requorements.txt file.
+We also show our experiment exvironment in requirements.txt file.
 
 ## Citation
 
