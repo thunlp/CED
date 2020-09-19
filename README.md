@@ -25,6 +25,8 @@ Due to the large INPUT gap between the proposed model and baseline models, we or
     ```
   - 10_parted_posts_seqvec.txt: Padded TF-IDF features only for CAMI. Still N=10 to compare with other models.
 
+Large file 10_parted_posts_seqvec.txt and post_id.json can be downloaded [here](https://pan.baidu.com/s/1lhQuie1vtpfd9LH0cBdzjw) with ks8c.
+
 ## Train
 ```sh
 $ # python model_name_to_train.py , for example:
@@ -46,3 +48,5 @@ If you use this code for research, please cite our paper as follows:
   publisher={IEEE}
 }
 ```
+## Contact
+If you have any problem, please feel free to contact us through this email(sch19@mails.tsinghua.edu.cn).
